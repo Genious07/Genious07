@@ -1,7 +1,6 @@
 # 💫 About Me:
 One line of code ignited a passion for change.<br><br>There was a moment when the ordinary just wouldn’t do—I craved a challenge that would redefine my future. That moment came when I discovered coding, opening a door to a world brimming with potential.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satwik-singh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:24092417@scale.iitrpr.ac.in) 
 
