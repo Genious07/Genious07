@@ -9,3 +9,4 @@ One line of code ignited a passion for change.<br><br>There was a moment when th
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=Genious07)
